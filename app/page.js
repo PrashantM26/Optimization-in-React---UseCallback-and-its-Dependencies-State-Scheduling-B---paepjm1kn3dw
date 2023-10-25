@@ -1,4 +1,4 @@
-/*'use client'
+'use client'
 import React, { useState, useMemo } from "react";
 
 const isPrimeNumber = (n) => {
@@ -70,12 +70,12 @@ const Home = () => {
   );
 };
 
-export default Home;*/
+export default Home;
 
 
 
 
-'use client'
+/*'use client'
 import React, { useState, useMemo } from "react";
 
 const isPrimeNumber = (n) => {
@@ -151,4 +151,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Home;*/
